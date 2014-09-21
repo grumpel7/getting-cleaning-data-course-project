@@ -19,7 +19,7 @@ The zip file is downloaded from https://d396qusza40orc.cloudfront.net/getdata%2F
 
 A copy of the original zip folder remains in the course project's working directory after the unzipping. The date of the downloading will be automatically recorded in a variable called "dateDownloaded"
 
-Part 2: Reading the data files and merging them into one dataset (data frame?).
+Part 2: Reading the data files and merging them into one data set (data frame).
 -------------------------------------------------------------------------------
 
 Firstly, I did not use the raw data files from the two "Inertial Signals" folders as they were not necessary for the objectives of the course project.
